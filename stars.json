@@ -1,8 +1,8 @@
 [
   {
     "full_name": "BabylonJS/BabylonReactNative",
-    "stargazers_count": 167,
-    "open_issues_count": 43,
+    "stargazers_count": 168,
+    "open_issues_count": 44,
     "forks_count": 28
   },
   {
@@ -19,14 +19,14 @@
   },
   {
     "full_name": "nim-lang/nimforum",
-    "stargazers_count": 650,
-    "open_issues_count": 105,
+    "stargazers_count": 651,
+    "open_issues_count": 106,
     "forks_count": 59
   },
   {
     "full_name": "microsoft/rnx-kit",
-    "stargazers_count": 348,
-    "open_issues_count": 41,
+    "stargazers_count": 350,
+    "open_issues_count": 43,
     "forks_count": 14
   },
   {
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "g-plane/typacro",
-    "stargazers_count": 22,
+    "stargazers_count": 28,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "wepublish/wepublish",
     "stargazers_count": 27,
-    "open_issues_count": 24,
+    "open_issues_count": 23,
     "forks_count": 16
   },
   {
     "full_name": "seek-oss/capsize",
-    "stargazers_count": 638,
-    "open_issues_count": 4,
-    "forks_count": 16
+    "stargazers_count": 641,
+    "open_issues_count": 5,
+    "forks_count": 15
   },
   {
     "full_name": "hazelgrove/tylr",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "ged-odoo/blockdom",
-    "stargazers_count": 156,
+    "stargazers_count": 157,
     "open_issues_count": 6,
     "forks_count": 6
   },
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "zboxfs/zbox",
-    "stargazers_count": 1240,
+    "stargazers_count": 1241,
     "open_issues_count": 11,
     "forks_count": 51
   },
@@ -121,19 +121,19 @@
   },
   {
     "full_name": "mapbox/potpack",
-    "stargazers_count": 147,
+    "stargazers_count": 149,
     "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "ChromeDevTools/devtools-protocol",
-    "stargazers_count": 688,
+    "stargazers_count": 691,
     "open_issues_count": 11,
     "forks_count": 160
   },
   {
     "full_name": "halturin/ergo",
-    "stargazers_count": 1103,
+    "stargazers_count": 1112,
     "open_issues_count": 4,
     "forks_count": 60
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 806,
+    "stargazers_count": 811,
     "open_issues_count": 5,
-    "forks_count": 13
+    "forks_count": 15
   },
   {
     "full_name": "orta/typescript-api-shim",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "bytecodealliance/witx-bindgen",
-    "stargazers_count": 64,
-    "open_issues_count": 15,
+    "stargazers_count": 65,
+    "open_issues_count": 13,
     "forks_count": 18
   }
 ]
