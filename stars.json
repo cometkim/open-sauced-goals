@@ -1,13 +1,13 @@
 [
   {
     "full_name": "BabylonJS/BabylonReactNative",
-    "stargazers_count": 169,
+    "stargazers_count": 171,
     "open_issues_count": 47,
     "forks_count": 32
   },
   {
     "full_name": "jacobaustin123/Coral",
-    "stargazers_count": 135,
+    "stargazers_count": 134,
     "open_issues_count": 2,
     "forks_count": 4
   },
@@ -19,21 +19,21 @@
   },
   {
     "full_name": "nim-lang/nimforum",
-    "stargazers_count": 654,
+    "stargazers_count": 655,
     "open_issues_count": 108,
-    "forks_count": 59
+    "forks_count": 60
   },
   {
     "full_name": "microsoft/rnx-kit",
     "stargazers_count": 368,
-    "open_issues_count": 42,
+    "open_issues_count": 40,
     "forks_count": 15
   },
   {
     "full_name": "stream-labs/obs-studio-node",
-    "stargazers_count": 420,
+    "stargazers_count": 422,
     "open_issues_count": 37,
-    "forks_count": 64
+    "forks_count": 65
   },
   {
     "full_name": "dividat/ocaml-semver",
@@ -50,7 +50,7 @@
   {
     "full_name": "wepublish/wepublish",
     "stargazers_count": 27,
-    "open_issues_count": 23,
+    "open_issues_count": 25,
     "forks_count": 16
   },
   {
@@ -61,13 +61,13 @@
   },
   {
     "full_name": "hazelgrove/tylr",
-    "stargazers_count": 78,
+    "stargazers_count": 79,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "ged-odoo/blockdom",
-    "stargazers_count": 160,
+    "stargazers_count": 161,
     "open_issues_count": 6,
     "forks_count": 6
   },
@@ -80,7 +80,7 @@
   {
     "full_name": "cloudflare/zkp-ecdsa",
     "stargazers_count": 91,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 7
   },
   {
@@ -97,14 +97,14 @@
   },
   {
     "full_name": "zboxfs/zbox",
-    "stargazers_count": 1249,
+    "stargazers_count": 1251,
     "open_issues_count": 11,
     "forks_count": 50
   },
   {
     "full_name": "WICG/urlpattern",
     "stargazers_count": 92,
-    "open_issues_count": 23,
+    "open_issues_count": 22,
     "forks_count": 16
   },
   {
@@ -121,21 +121,21 @@
   },
   {
     "full_name": "mapbox/potpack",
-    "stargazers_count": 153,
+    "stargazers_count": 154,
     "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "ChromeDevTools/devtools-protocol",
-    "stargazers_count": 696,
+    "stargazers_count": 697,
     "open_issues_count": 11,
     "forks_count": 162
   },
   {
     "full_name": "halturin/ergo",
-    "stargazers_count": 1183,
-    "open_issues_count": 6,
-    "forks_count": 66
+    "stargazers_count": 1198,
+    "open_issues_count": 5,
+    "forks_count": 67
   },
   {
     "full_name": "oaijs/ajv-oai",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 847,
+    "stargazers_count": 856,
     "open_issues_count": 8,
     "forks_count": 17
   },
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "asdf-vm/asdf-plugin-template",
-    "stargazers_count": 32,
+    "stargazers_count": 31,
     "open_issues_count": 4,
     "forks_count": 18
   },
