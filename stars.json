@@ -25,8 +25,8 @@
   },
   {
     "full_name": "microsoft/rnx-kit",
-    "stargazers_count": 384,
-    "open_issues_count": 44,
+    "stargazers_count": 388,
+    "open_issues_count": 43,
     "forks_count": 16
   },
   {
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "wepublish/wepublish",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 34,
     "forks_count": 18
   },
   {
     "full_name": "seek-oss/capsize",
-    "stargazers_count": 736,
+    "stargazers_count": 739,
     "open_issues_count": 8,
     "forks_count": 16
   },
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "samccone/bundle-buddy",
-    "stargazers_count": 2868,
+    "stargazers_count": 2869,
     "open_issues_count": 20,
     "forks_count": 82
   },
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "ANSSI-FR/MLA",
-    "stargazers_count": 241,
+    "stargazers_count": 242,
     "open_issues_count": 10,
     "forks_count": 12
   },
@@ -127,14 +127,14 @@
   },
   {
     "full_name": "ChromeDevTools/devtools-protocol",
-    "stargazers_count": 709,
+    "stargazers_count": 711,
     "open_issues_count": 13,
-    "forks_count": 163
+    "forks_count": 164
   },
   {
     "full_name": "halturin/ergo",
-    "stargazers_count": 1241,
-    "open_issues_count": 6,
+    "stargazers_count": 1250,
+    "open_issues_count": 7,
     "forks_count": 70
   },
   {
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 903,
+    "stargazers_count": 906,
     "open_issues_count": 8,
     "forks_count": 17
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "asdf-vm/asdf-plugin-template",
-    "stargazers_count": 33,
+    "stargazers_count": 34,
     "open_issues_count": 4,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "bytecodealliance/witx-bindgen",
-    "stargazers_count": 112,
+    "stargazers_count": 114,
     "open_issues_count": 21,
     "forks_count": 26
   }
