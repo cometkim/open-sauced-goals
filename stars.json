@@ -19,20 +19,20 @@
   },
   {
     "full_name": "nim-lang/nimforum",
-    "stargazers_count": 667,
+    "stargazers_count": 670,
     "open_issues_count": 107,
     "forks_count": 62
   },
   {
     "full_name": "microsoft/rnx-kit",
-    "stargazers_count": 402,
-    "open_issues_count": 45,
+    "stargazers_count": 401,
+    "open_issues_count": 42,
     "forks_count": 19
   },
   {
     "full_name": "stream-labs/obs-studio-node",
-    "stargazers_count": 439,
-    "open_issues_count": 46,
+    "stargazers_count": 440,
+    "open_issues_count": 42,
     "forks_count": 68
   },
   {
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "wepublish/wepublish",
-    "stargazers_count": 30,
-    "open_issues_count": 37,
+    "stargazers_count": 31,
+    "open_issues_count": 35,
     "forks_count": 17
   },
   {
     "full_name": "seek-oss/capsize",
-    "stargazers_count": 761,
+    "stargazers_count": 765,
     "open_issues_count": 12,
     "forks_count": 17
   },
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "cloudflare/zkp-ecdsa",
-    "stargazers_count": 98,
+    "stargazers_count": 99,
     "open_issues_count": 2,
     "forks_count": 9
   },
@@ -91,20 +91,20 @@
   },
   {
     "full_name": "ANSSI-FR/MLA",
-    "stargazers_count": 246,
-    "open_issues_count": 5,
+    "stargazers_count": 247,
+    "open_issues_count": 6,
     "forks_count": 12
   },
   {
     "full_name": "zboxfs/zbox",
-    "stargazers_count": 1273,
+    "stargazers_count": 1274,
     "open_issues_count": 12,
     "forks_count": 56
   },
   {
     "full_name": "WICG/urlpattern",
-    "stargazers_count": 98,
-    "open_issues_count": 25,
+    "stargazers_count": 99,
+    "open_issues_count": 24,
     "forks_count": 16
   },
   {
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "ChromeDevTools/devtools-protocol",
-    "stargazers_count": 719,
-    "open_issues_count": 12,
-    "forks_count": 173
+    "stargazers_count": 722,
+    "open_issues_count": 13,
+    "forks_count": 174
   },
   {
     "full_name": "halturin/ergo",
-    "stargazers_count": 1286,
+    "stargazers_count": 1288,
     "open_issues_count": 8,
     "forks_count": 73
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 968,
+    "stargazers_count": 974,
     "open_issues_count": 11,
-    "forks_count": 19
+    "forks_count": 20
   },
   {
     "full_name": "orta/typescript-api-shim",
@@ -164,19 +164,19 @@
   {
     "full_name": "cometkim/asdf-grain",
     "stargazers_count": 3,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "asdf-vm/asdf-plugin-template",
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "open_issues_count": 11,
     "forks_count": 22
   },
   {
     "full_name": "bytecodealliance/witx-bindgen",
-    "stargazers_count": 133,
-    "open_issues_count": 32,
-    "forks_count": 32
+    "stargazers_count": 136,
+    "open_issues_count": 33,
+    "forks_count": 33
   }
 ]
