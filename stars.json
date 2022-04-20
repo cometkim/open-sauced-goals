@@ -25,15 +25,15 @@
   },
   {
     "full_name": "microsoft/rnx-kit",
-    "stargazers_count": 493,
-    "open_issues_count": 91,
+    "stargazers_count": 494,
+    "open_issues_count": 82,
     "forks_count": 27
   },
   {
     "full_name": "stream-labs/obs-studio-node",
     "stargazers_count": 453,
-    "open_issues_count": 41,
-    "forks_count": 71
+    "open_issues_count": 42,
+    "forks_count": 72
   },
   {
     "full_name": "dividat/ocaml-semver",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "seek-oss/capsize",
-    "stargazers_count": 826,
+    "stargazers_count": 830,
     "open_issues_count": 8,
     "forks_count": 20
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "WICG/urlpattern",
-    "stargazers_count": 104,
+    "stargazers_count": 106,
     "open_issues_count": 24,
-    "forks_count": 15
+    "forks_count": 16
   },
   {
     "full_name": "styfle/breaking-changes-web",
@@ -121,20 +121,20 @@
   },
   {
     "full_name": "mapbox/potpack",
-    "stargazers_count": 172,
+    "stargazers_count": 173,
     "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "ChromeDevTools/devtools-protocol",
-    "stargazers_count": 751,
+    "stargazers_count": 755,
     "open_issues_count": 13,
     "forks_count": 180
   },
   {
     "full_name": "halturin/ergo",
-    "stargazers_count": 1348,
-    "open_issues_count": 11,
+    "stargazers_count": 1384,
+    "open_issues_count": 7,
     "forks_count": 77
   },
   {
@@ -145,8 +145,8 @@
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 1105,
-    "open_issues_count": 13,
+    "stargazers_count": 1110,
+    "open_issues_count": 12,
     "forks_count": 26
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "bytecodealliance/witx-bindgen",
-    "stargazers_count": 190,
-    "open_issues_count": 44,
+    "stargazers_count": 199,
+    "open_issues_count": 45,
     "forks_count": 44
   }
 ]
