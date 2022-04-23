@@ -25,9 +25,9 @@
   },
   {
     "full_name": "microsoft/rnx-kit",
-    "stargazers_count": 494,
-    "open_issues_count": 82,
-    "forks_count": 27
+    "stargazers_count": 496,
+    "open_issues_count": 84,
+    "forks_count": 28
   },
   {
     "full_name": "stream-labs/obs-studio-node",
@@ -50,18 +50,18 @@
   {
     "full_name": "wepublish/wepublish",
     "stargazers_count": 32,
-    "open_issues_count": 38,
+    "open_issues_count": 41,
     "forks_count": 18
   },
   {
     "full_name": "seek-oss/capsize",
-    "stargazers_count": 830,
+    "stargazers_count": 837,
     "open_issues_count": 8,
     "forks_count": 20
   },
   {
     "full_name": "hazelgrove/tylr",
-    "stargazers_count": 91,
+    "stargazers_count": 92,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "samccone/bundle-buddy",
-    "stargazers_count": 2870,
+    "stargazers_count": 2871,
     "open_issues_count": 24,
     "forks_count": 83
   },
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "ANSSI-FR/MLA",
-    "stargazers_count": 260,
+    "stargazers_count": 261,
     "open_issues_count": 7,
     "forks_count": 12
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "halturin/ergo",
-    "stargazers_count": 1384,
-    "open_issues_count": 7,
-    "forks_count": 77
+    "stargazers_count": 1407,
+    "open_issues_count": 8,
+    "forks_count": 79
   },
   {
     "full_name": "oaijs/ajv-oai",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 1110,
+    "stargazers_count": 1118,
     "open_issues_count": 12,
     "forks_count": 26
   },
@@ -171,12 +171,12 @@
     "full_name": "asdf-vm/asdf-plugin-template",
     "stargazers_count": 43,
     "open_issues_count": 11,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "bytecodealliance/witx-bindgen",
-    "stargazers_count": 199,
-    "open_issues_count": 45,
+    "stargazers_count": 203,
+    "open_issues_count": 40,
     "forks_count": 44
   }
 ]
