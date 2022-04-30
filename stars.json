@@ -1,7 +1,7 @@
 [
   {
     "full_name": "BabylonJS/BabylonReactNative",
-    "stargazers_count": 203,
+    "stargazers_count": 205,
     "open_issues_count": 54,
     "forks_count": 41
   },
@@ -19,21 +19,21 @@
   },
   {
     "full_name": "nim-lang/nimforum",
-    "stargazers_count": 680,
+    "stargazers_count": 681,
     "open_issues_count": 116,
     "forks_count": 67
   },
   {
     "full_name": "microsoft/rnx-kit",
     "stargazers_count": 499,
-    "open_issues_count": 86,
+    "open_issues_count": 85,
     "forks_count": 28
   },
   {
     "full_name": "stream-labs/obs-studio-node",
-    "stargazers_count": 454,
-    "open_issues_count": 42,
-    "forks_count": 72
+    "stargazers_count": 456,
+    "open_issues_count": 41,
+    "forks_count": 73
   },
   {
     "full_name": "dividat/ocaml-semver",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "seek-oss/capsize",
-    "stargazers_count": 839,
+    "stargazers_count": 841,
     "open_issues_count": 8,
     "forks_count": 20
   },
@@ -74,7 +74,7 @@
   {
     "full_name": "samccone/bundle-buddy",
     "stargazers_count": 2871,
-    "open_issues_count": 24,
+    "open_issues_count": 25,
     "forks_count": 83
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "minio/minio-rs",
-    "stargazers_count": 54,
+    "stargazers_count": 55,
     "open_issues_count": 1,
     "forks_count": 18
   },
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "zboxfs/zbox",
-    "stargazers_count": 1286,
+    "stargazers_count": 1288,
     "open_issues_count": 12,
-    "forks_count": 57
+    "forks_count": 58
   },
   {
     "full_name": "WICG/urlpattern",
-    "stargazers_count": 105,
+    "stargazers_count": 106,
     "open_issues_count": 24,
     "forks_count": 17
   },
@@ -127,26 +127,26 @@
   },
   {
     "full_name": "ChromeDevTools/devtools-protocol",
-    "stargazers_count": 756,
+    "stargazers_count": 757,
     "open_issues_count": 13,
     "forks_count": 180
   },
   {
     "full_name": "halturin/ergo",
-    "stargazers_count": 1412,
+    "stargazers_count": 1418,
     "open_issues_count": 8,
     "forks_count": 79
   },
   {
     "full_name": "oaijs/ajv-oai",
     "stargazers_count": 12,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 1
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 1122,
-    "open_issues_count": 12,
+    "stargazers_count": 1131,
+    "open_issues_count": 13,
     "forks_count": 26
   },
   {
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "asdf-vm/asdf-plugin-template",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 11,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "bytecodealliance/witx-bindgen",
-    "stargazers_count": 205,
+    "stargazers_count": 206,
     "open_issues_count": 42,
     "forks_count": 44
   }
