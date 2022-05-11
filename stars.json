@@ -1,9 +1,9 @@
 [
   {
     "full_name": "BabylonJS/BabylonReactNative",
-    "stargazers_count": 211,
+    "stargazers_count": 214,
     "open_issues_count": 52,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "jacobaustin123/Coral",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "microsoft/rnx-kit",
-    "stargazers_count": 542,
+    "stargazers_count": 556,
     "open_issues_count": 85,
     "forks_count": 28
   },
   {
     "full_name": "stream-labs/obs-studio-node",
-    "stargazers_count": 459,
+    "stargazers_count": 461,
     "open_issues_count": 41,
-    "forks_count": 73
+    "forks_count": 72
   },
   {
     "full_name": "dividat/ocaml-semver",
@@ -50,12 +50,12 @@
   {
     "full_name": "wepublish/wepublish",
     "stargazers_count": 33,
-    "open_issues_count": 39,
+    "open_issues_count": 40,
     "forks_count": 19
   },
   {
     "full_name": "seek-oss/capsize",
-    "stargazers_count": 844,
+    "stargazers_count": 846,
     "open_issues_count": 8,
     "forks_count": 20
   },
@@ -127,14 +127,14 @@
   },
   {
     "full_name": "ChromeDevTools/devtools-protocol",
-    "stargazers_count": 759,
+    "stargazers_count": 760,
     "open_issues_count": 13,
-    "forks_count": 181
+    "forks_count": 182
   },
   {
     "full_name": "halturin/ergo",
-    "stargazers_count": 1425,
-    "open_issues_count": 8,
+    "stargazers_count": 1427,
+    "open_issues_count": 9,
     "forks_count": 79
   },
   {
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 1150,
-    "open_issues_count": 13,
-    "forks_count": 26
+    "stargazers_count": 1159,
+    "open_issues_count": 12,
+    "forks_count": 27
   },
   {
     "full_name": "orta/typescript-api-shim",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "bytecodealliance/witx-bindgen",
-    "stargazers_count": 207,
-    "open_issues_count": 43,
+    "stargazers_count": 210,
+    "open_issues_count": 42,
     "forks_count": 45
   }
 ]
