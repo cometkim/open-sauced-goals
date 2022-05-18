@@ -1,7 +1,7 @@
 [
   {
     "full_name": "BabylonJS/BabylonReactNative",
-    "stargazers_count": 214,
+    "stargazers_count": 216,
     "open_issues_count": 51,
     "forks_count": 43
   },
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "microsoft/rnx-kit",
-    "stargazers_count": 568,
-    "open_issues_count": 87,
-    "forks_count": 28
+    "stargazers_count": 576,
+    "open_issues_count": 93,
+    "forks_count": 30
   },
   {
     "full_name": "stream-labs/obs-studio-node",
@@ -50,30 +50,30 @@
   {
     "full_name": "wepublish/wepublish",
     "stargazers_count": 33,
-    "open_issues_count": 43,
+    "open_issues_count": 42,
     "forks_count": 19
   },
   {
     "full_name": "seek-oss/capsize",
-    "stargazers_count": 848,
+    "stargazers_count": 850,
     "open_issues_count": 8,
     "forks_count": 20
   },
   {
     "full_name": "hazelgrove/tylr",
-    "stargazers_count": 92,
+    "stargazers_count": 144,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "ged-odoo/blockdom",
-    "stargazers_count": 188,
+    "stargazers_count": 189,
     "open_issues_count": 4,
     "forks_count": 7
   },
   {
     "full_name": "samccone/bundle-buddy",
-    "stargazers_count": 2871,
+    "stargazers_count": 2872,
     "open_issues_count": 25,
     "forks_count": 83
   },
@@ -92,7 +92,7 @@
   {
     "full_name": "ANSSI-FR/MLA",
     "stargazers_count": 262,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 12
   },
   {
@@ -121,19 +121,19 @@
   },
   {
     "full_name": "mapbox/potpack",
-    "stargazers_count": 175,
+    "stargazers_count": 176,
     "open_issues_count": 0,
     "forks_count": 13
   },
   {
     "full_name": "ChromeDevTools/devtools-protocol",
-    "stargazers_count": 765,
+    "stargazers_count": 767,
     "open_issues_count": 13,
-    "forks_count": 184
+    "forks_count": 183
   },
   {
     "full_name": "halturin/ergo",
-    "stargazers_count": 1427,
+    "stargazers_count": 1429,
     "open_issues_count": 9,
     "forks_count": 79
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 1167,
-    "open_issues_count": 13,
-    "forks_count": 28
+    "stargazers_count": 1171,
+    "open_issues_count": 14,
+    "forks_count": 27
   },
   {
     "full_name": "orta/typescript-api-shim",
@@ -158,8 +158,8 @@
   {
     "full_name": "mirage/ocaml-github",
     "stargazers_count": 98,
-    "open_issues_count": 21,
-    "forks_count": 57
+    "open_issues_count": 22,
+    "forks_count": 58
   },
   {
     "full_name": "cometkim/asdf-grain",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "asdf-vm/asdf-plugin-template",
-    "stargazers_count": 45,
+    "stargazers_count": 46,
     "open_issues_count": 11,
     "forks_count": 24
   },
   {
     "full_name": "bytecodealliance/witx-bindgen",
-    "stargazers_count": 211,
+    "stargazers_count": 215,
     "open_issues_count": 42,
     "forks_count": 44
   }
