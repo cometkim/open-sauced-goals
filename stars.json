@@ -2,7 +2,7 @@
   {
     "full_name": "BabylonJS/BabylonReactNative",
     "stargazers_count": 220,
-    "open_issues_count": 51,
+    "open_issues_count": 56,
     "forks_count": 43
   },
   {
@@ -25,14 +25,14 @@
   },
   {
     "full_name": "microsoft/rnx-kit",
-    "stargazers_count": 613,
-    "open_issues_count": 82,
+    "stargazers_count": 622,
+    "open_issues_count": 84,
     "forks_count": 32
   },
   {
     "full_name": "stream-labs/obs-studio-node",
     "stargazers_count": 464,
-    "open_issues_count": 42,
+    "open_issues_count": 44,
     "forks_count": 74
   },
   {
@@ -50,31 +50,31 @@
   {
     "full_name": "wepublish/wepublish",
     "stargazers_count": 34,
-    "open_issues_count": 47,
+    "open_issues_count": 48,
     "forks_count": 19
   },
   {
     "full_name": "seek-oss/capsize",
-    "stargazers_count": 855,
-    "open_issues_count": 8,
+    "stargazers_count": 857,
+    "open_issues_count": 9,
     "forks_count": 20
   },
   {
     "full_name": "hazelgrove/tylr",
-    "stargazers_count": 147,
-    "open_issues_count": 1,
+    "stargazers_count": 148,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "ged-odoo/blockdom",
-    "stargazers_count": 188,
+    "stargazers_count": 189,
     "open_issues_count": 4,
     "forks_count": 7
   },
   {
     "full_name": "samccone/bundle-buddy",
-    "stargazers_count": 2878,
-    "open_issues_count": 25,
+    "stargazers_count": 2880,
+    "open_issues_count": 26,
     "forks_count": 84
   },
   {
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "WICG/urlpattern",
-    "stargazers_count": 110,
+    "stargazers_count": 112,
     "open_issues_count": 25,
     "forks_count": 17
   },
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "halturin/ergo",
-    "stargazers_count": 1437,
+    "stargazers_count": 1439,
     "open_issues_count": 9,
     "forks_count": 80
   },
@@ -145,8 +145,8 @@
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 1192,
-    "open_issues_count": 13,
+    "stargazers_count": 1203,
+    "open_issues_count": 15,
     "forks_count": 27
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "asdf-vm/asdf-plugin-template",
-    "stargazers_count": 46,
+    "stargazers_count": 47,
     "open_issues_count": 11,
     "forks_count": 24
   },
   {
     "full_name": "bytecodealliance/witx-bindgen",
-    "stargazers_count": 223,
-    "open_issues_count": 43,
+    "stargazers_count": 226,
+    "open_issues_count": 45,
     "forks_count": 49
   }
 ]
