@@ -25,13 +25,13 @@
   },
   {
     "full_name": "microsoft/rnx-kit",
-    "stargazers_count": 624,
-    "open_issues_count": 79,
+    "stargazers_count": 629,
+    "open_issues_count": 82,
     "forks_count": 33
   },
   {
     "full_name": "stream-labs/obs-studio-node",
-    "stargazers_count": 466,
+    "stargazers_count": 467,
     "open_issues_count": 44,
     "forks_count": 74
   },
@@ -50,12 +50,12 @@
   {
     "full_name": "wepublish/wepublish",
     "stargazers_count": 34,
-    "open_issues_count": 44,
+    "open_issues_count": 43,
     "forks_count": 19
   },
   {
     "full_name": "seek-oss/capsize",
-    "stargazers_count": 861,
+    "stargazers_count": 864,
     "open_issues_count": 9,
     "forks_count": 20
   },
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "samccone/bundle-buddy",
-    "stargazers_count": 2881,
+    "stargazers_count": 2880,
     "open_issues_count": 26,
     "forks_count": 84
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "minio/minio-rs",
-    "stargazers_count": 56,
+    "stargazers_count": 58,
     "open_issues_count": 1,
     "forks_count": 18
   },
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "ChromeDevTools/devtools-protocol",
-    "stargazers_count": 775,
-    "open_issues_count": 13,
+    "stargazers_count": 776,
+    "open_issues_count": 11,
     "forks_count": 183
   },
   {
     "full_name": "halturin/ergo",
-    "stargazers_count": 1439,
+    "stargazers_count": 1570,
     "open_issues_count": 9,
-    "forks_count": 80
+    "forks_count": 83
   },
   {
     "full_name": "oaijs/ajv-oai",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 1210,
-    "open_issues_count": 14,
-    "forks_count": 27
+    "stargazers_count": 1217,
+    "open_issues_count": 15,
+    "forks_count": 28
   },
   {
     "full_name": "orta/typescript-api-shim",
@@ -171,12 +171,12 @@
     "full_name": "asdf-vm/asdf-plugin-template",
     "stargazers_count": 49,
     "open_issues_count": 11,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "bytecodealliance/witx-bindgen",
-    "stargazers_count": 231,
-    "open_issues_count": 45,
-    "forks_count": 49
+    "stargazers_count": 232,
+    "open_issues_count": 46,
+    "forks_count": 52
   }
 ]
